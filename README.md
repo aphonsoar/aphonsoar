@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 I am Economist, Accountant and Data & Analytics enthusiastic. Data science and statistics permanently student.<br>
-You can find more about me in my LinkedIn profile:
+You can contact and find more about me on my LinkedIn profile:
 
 <a href="https://www.linkedin.com/in/aphonso/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,8 +14,8 @@ You can find more about me in my LinkedIn profile:
 
 <p align="left">
 <a href="https://bermeo.dev">
-<img width="56%" src="https://github-readme-stats.vercel.app/api?username=aphonsoar&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=aphonsoar&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
- <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aphonsoar&count_private=true&include_all_commits=true&hide=c%23&langs_count=6&show_icons=true&theme=github_dark&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=aphonsoar&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=aphonsoar&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aphonsoar&hide_progress=true&hide=html&exclude_repo=DSBD-UFPR&count_private=true&include_all_commits=true&langs_count=10&show_icons=true&theme=github_dark&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
 <img width="56%" src="https://github-readme-activity-graph.cyclic.app/graph?username=aphonsoar&bg_color=0f1116&color=7075FF&line=D0D1F7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/></a>
 </p>
 
@@ -35,21 +35,6 @@ You can find more about me in my LinkedIn profile:
 </p>
 
 ---
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### ✌🏻 &nbsp;Project I support:
 - [Base dos dados](https://basedosdados.org/) - [Apoia-se](https://apoia.se/basedosdados)
