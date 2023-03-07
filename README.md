@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://media.licdn.com/dms/image/D4E03AQGNmMYs5f9Zjw/profile-displayphoto-shrink_800_800/0/1666612510645?e=1683763200&v=beta&t=pMxyMx6jTyDqnNV31lH4HSRV7e-Qdz4HP9JEkB5ooKc" title="Aphonso" alt="Aphonso" width="200" height="200"/>&nbsp;
+<!-- <img src="https://media.licdn.com/dms/image/D4E03AQGNmMYs5f9Zjw/profile-displayphoto-shrink_800_800/0/1666612510645?e=1683763200&v=beta&t=pMxyMx6jTyDqnNV31lH4HSRV7e-Qdz4HP9JEkB5ooKc" title="Aphonso" alt="Aphonso" width="200" height="200"/>&nbsp; -->
 
 ### Hi there 👋
 I am Economist, Accountant and Data & Analytics enthusiastic. Data science and statistics permanently student.<br>
