@@ -2,8 +2,8 @@
 <!-- <img src="https://media.licdn.com/dms/image/D4E03AQGNmMYs5f9Zjw/profile-displayphoto-shrink_800_800/0/1666612510645?e=1683763200&v=beta&t=pMxyMx6jTyDqnNV31lH4HSRV7e-Qdz4HP9JEkB5ooKc" title="Aphonso" alt="Aphonso" width="200" height="200"/>&nbsp; -->
 
 ### Hi there 👋
-I am Economist, Accountant and Data & Analytics enthusiastic. Data science and statistics permanently student.<br>
-You can contact and find more about me on my LinkedIn profile:
+I am an Economist, Accountant and Data & Analytics enthusiastic. Data science and statistics permanently student.<br>
+You can contact me and find more about my experience on my LinkedIn profile:
 
 <a href="https://www.linkedin.com/in/aphonso/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
