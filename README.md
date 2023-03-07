@@ -21,7 +21,7 @@ You can contact and find more about me on my LinkedIn profile:
 
 ---
 
-### 🛠 &nbsp;A few languages and Tools I've knowledge:
+### 🛠 &nbsp;A few languages and tools I've knowledge:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>&nbsp;
